@@ -33,7 +33,7 @@ The Astrology Insights website is a fun and interactive way to explore astrology
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[animesh713331]/redesigned-lamp.git  # Replace with your repo URL
+   git clone https://github.com/animesh713331/redesigned-lamp.git 
    Open the index.html file in your web browser.
 
 2. Usage
